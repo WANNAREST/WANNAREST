@@ -7,7 +7,7 @@ A passionate developer.
 
 # 📊 GitHub Stats
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Wannarest&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Wannarest&theme=dark&hide_border=false)
+![GitHub Streak](https://streak-stats.vercel.app/?user=Wannarest&theme=dark)
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Wannarest&theme=dark&hide_border=false&layout=compact)
 
 ## 🏆 GitHub Trophies
